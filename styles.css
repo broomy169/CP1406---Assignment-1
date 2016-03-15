@@ -7,6 +7,13 @@
     width: 400px;
 }
 
+#devil {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #rabbits {
     width: 400px;
     display: block;
