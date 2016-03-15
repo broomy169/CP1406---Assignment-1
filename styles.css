@@ -1,8 +1,9 @@
-#olaf {
-    width: 260px;
+#sewing {
+    width: 360px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    
 }
 
 #SteveRogers, #SallyRogers {
@@ -16,15 +17,48 @@
     width: 450px;
     margin-left: auto;
     margin-right: auto;
+    text-align: justify;
+}
+
+p{
+    text-align: justify;
 }
 
 body {
-    width: 700px;
+    width: 850px;
     margin-left: auto;
     margin-right: auto;
     font-family: Verdana;
+    background-color: lightgray;
+    
 }
 
 h1, h2 {
     text-align: center;
+}
+
+#menu {
+    width: 850px;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: white;
+}
+
+#menu a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+
+#menu a:hover {
+    color: black;
+    background-color: lightgray;
+}
+
+li {
+    display: inline-block;
+    list-style-type: none;
 }
