@@ -1,3 +1,31 @@
+#alice {
+    width: 440px;
+    padding-bottom: 4px;
+}
+
+#spiderman {
+    width: 400px;
+}
+
+#rabbits {
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#boromir, #olaf {
+    height: 450px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#indexImages {
+    text-align: center;
+}
+
 #sewing {
     width: 360px;
     display: block;
@@ -25,6 +53,13 @@
     margin-left: auto;
     margin-right: auto;
     text-align: justify;
+}
+
+#index {
+    width: 450;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 
 p {
